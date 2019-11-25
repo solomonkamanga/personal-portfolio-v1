@@ -1,4 +1,4 @@
-# freeCodeCamp - Build a Tribute Page
+# freeCodeCamp - Build a Personal Portfolio Webpage
 
 Personal portfolio webpage created as part of the Build a Personal Portfolio Webpage challenge from [freeCodeCamp](https://www.freecodecamp.org).
 
